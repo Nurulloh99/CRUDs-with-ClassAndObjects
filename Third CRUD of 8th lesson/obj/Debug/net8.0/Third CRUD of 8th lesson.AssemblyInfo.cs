@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Third CRUD of 8th lesson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d46888039c8a3c4f11ad993da740ad24c0b7a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Third CRUD of 8th lesson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Third CRUD of 8th lesson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
