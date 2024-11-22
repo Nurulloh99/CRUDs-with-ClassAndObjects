@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Third_CRUD_of_8th_lesson.Models;
@@ -14,6 +15,7 @@ namespace Third_CRUD_of_8th_lesson.Services
         public BooksServices()
         {
             ListedBooks = new List<Books>();
+            DataSeed();
         }
 
         public Books AddedBook(Books addingBook)
@@ -58,6 +60,24 @@ namespace Third_CRUD_of_8th_lesson.Services
             return ListedBooks;
         }
 
+        
+
+
+        public Books GetByID(Guid bookAydi)
+        {
+            foreach(var check in ListedBooks)
+            {
+                if(check.Id == bookAydi)
+                {
+                    return check;
+                }
+            }
+            return null;
+        }
+
+
+
+
 
         public void DataSeed()
         {
@@ -66,7 +86,7 @@ namespace Third_CRUD_of_8th_lesson.Services
                 Id = Guid.NewGuid(),
                 Name = "Harry Potter",
                 Author = "James Cameron",
-                DateTimee = DateTime.Now,
+                DateTimee = 1995,
                 Description = "Magic book",
                 Pages = 500,
                 Where = "Great Britain",
@@ -78,7 +98,7 @@ namespace Third_CRUD_of_8th_lesson.Services
                 Id = Guid.NewGuid(),
                 Name = "Halqa",
                 Author = "Akrom Malik",
-                DateTimee = DateTime.Now,
+                DateTimee = 2000,
                 Description = "Hayotiy voqea",
                 Pages = 350,
                 Where = "Urumchi, China",
@@ -90,11 +110,17 @@ namespace Third_CRUD_of_8th_lesson.Services
                 Id = Guid.NewGuid(),
                 Name = "Iskanja",
                 Author = "Amina Shenlikuglu",
-                DateTimee = DateTime.Now,
+                DateTimee = 2015,
                 Description = "Hayotiy qissa",
                 Pages = 374,
                 Where = "Turkiya",
             };
+
+
+            ListedBooks.Add(firstBookExample);
+            ListedBooks.Add(secondBookExample);
+            ListedBooks.Add(thirdBookExample);
+
         }
 
 

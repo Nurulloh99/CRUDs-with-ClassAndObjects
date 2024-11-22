@@ -13,6 +13,7 @@ public class StudentServices
     public StudentServices()
     {
         ListOfStudents = new List<Student>();
+        DataSeed();
     }
 
     public Student AddingStudent(Student addingstudent)
@@ -78,7 +79,7 @@ public class StudentServices
             Name = "Nurulloh",
             Surname = "Lutfullayev",
             Age = 25,
-            BirthDay = DateTime.Now,
+            BirthDay = 1999,
             BirthPlace = "Tashkent",
             LivingPlace = "Tashkent",
             Status = "Studying",
@@ -91,7 +92,7 @@ public class StudentServices
             Name = "Ilkhom",
             Surname = "Tilovov",
             Age = 27,
-            BirthDay = DateTime.Now,
+            BirthDay = 1997,
             BirthPlace = "Tashkent",
             LivingPlace = "Tashkent",
             Status = "Studying",
@@ -104,12 +105,18 @@ public class StudentServices
             Name = "Boymurod",
             Surname = "Mamarajabov",
             Age = 24,
-            BirthDay = DateTime.Now,
+            BirthDay = 2000,
             BirthPlace = "Surhandaryo",
             LivingPlace = "Tashkent",
             Status = "Studying",
             StatusPlace = "PDP Academy",
         };
+
+        ListOfStudents.Add(firstStudentType);
+        ListOfStudents.Add(secondStudentType);
+        ListOfStudents.Add(thirdStudentType);
+
+
     }
 
 

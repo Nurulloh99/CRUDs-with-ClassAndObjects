@@ -16,5 +16,5 @@ public class Student
     public string LivingPlace { get; set; }
     public string Status { get; set; }
     public string StatusPlace { get; set; }
-    public DateTime BirthDay { get; set; }
+    public int BirthDay { get; set; }
 }

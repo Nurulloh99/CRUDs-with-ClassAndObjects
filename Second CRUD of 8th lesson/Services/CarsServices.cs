@@ -13,6 +13,7 @@ namespace Second_CRUD_of_8th_lesson.Services
         public CarsServices()
         {
             ListedCars = new List<Cars>();
+            DataSeed();
         }
 
         public Cars AddedCars(Cars addingCars)
@@ -78,7 +79,7 @@ namespace Second_CRUD_of_8th_lesson.Services
             {
                 Id = Guid.NewGuid(),
                 Model = "BMW",
-                Year = DateTime.Now,
+                Year = 1687,
                 BuiltPlace = "Germany",
                 Owner = "Nurulloh Lutfullayev",
                 Description = "Svejuxa, Tinnu, Kraskasi toza",
@@ -90,7 +91,7 @@ namespace Second_CRUD_of_8th_lesson.Services
             {
                 Id = Guid.NewGuid(),
                 Model = "Gentra",
-                Year = DateTime.Now,
+                Year = 1994,
                 BuiltPlace = "Uzbekistan",
                 Owner = "Tursunboy Adashboyev",
                 Description = "Bitta ikta urilgan joyi bor, atak yaxsh yuradi",
@@ -102,7 +103,7 @@ namespace Second_CRUD_of_8th_lesson.Services
             {
                 Id = Guid.NewGuid(),
                 Model = "Spark",
-                Year = DateTime.Now,
+                Year = 2008,
                 BuiltPlace = "Uzbekistan",
                 Owner = "Malika holiqova",
                 Description = "Faqat ishga qatnagan, aybi yo'q",
@@ -111,16 +112,9 @@ namespace Second_CRUD_of_8th_lesson.Services
             };
 
 
-
-
-
-
-
-
-
-
-
-
+            ListedCars.Add(firstCarExample);
+            ListedCars.Add(secondCarExample);
+            ListedCars.Add(thirdCarExample);
 
         }
 

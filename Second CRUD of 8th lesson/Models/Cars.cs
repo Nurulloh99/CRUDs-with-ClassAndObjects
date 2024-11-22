@@ -10,7 +10,7 @@ public class Cars
 {
     public Guid Id { get; set; }
     public string Model { get; set; }
-    public DateTime Year { get; set; }
+    public int Year { get; set; }
     public string BuiltPlace { get; set; }
     public string Owner { get; set; }
     public string Description { get; set; }

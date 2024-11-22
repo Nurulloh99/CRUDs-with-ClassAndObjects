@@ -1,0 +1,15 @@
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\bin\Debug\net8.0\First CRUD of 8th lesson.exe
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\bin\Debug\net8.0\First CRUD of 8th lesson.deps.json
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\bin\Debug\net8.0\First CRUD of 8th lesson.runtimeconfig.json
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\bin\Debug\net8.0\First CRUD of 8th lesson.dll
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\bin\Debug\net8.0\First CRUD of 8th lesson.pdb
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.AssemblyInfoInputs.cache
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.AssemblyInfo.cs
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.csproj.CoreCompileInputs.cache
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.sourcelink.json
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.dll
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\refint\First CRUD of 8th lesson.dll
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.pdb
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\First CRUD of 8th lesson.genruntimeconfig.cache
+D:\ProjectsWithCsharp\GitProjects\CRUDs-with-ClassAndObjects\First CRUD of 8th lesson\obj\Debug\net8.0\ref\First CRUD of 8th lesson.dll

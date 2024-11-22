@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "First CRUD of 8th lesson/1.0.0": {
+        "runtime": {
+          "First CRUD of 8th lesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First CRUD of 8th lesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

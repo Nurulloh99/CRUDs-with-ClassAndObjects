@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D37D0DD9-6858-409B-95EA-E7A12C8762A8}|Second CRUD of 8th lesson.csproj|solutionrelative:services\\carsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D37D0DD9-6858-409B-95EA-E7A12C8762A8}|Second CRUD of 8th lesson.csproj|d:\\projectswithcsharp\\gitprojects\\cruds-with-classandobjects\\second crud of 8th lesson\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D37D0DD9-6858-409B-95EA-E7A12C8762A8}|Second CRUD of 8th lesson.csproj|solutionrelative:models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D37D0DD9-6858-409B-95EA-E7A12C8762A8}|Second CRUD of 8th lesson.csproj|d:\\projectswithcsharp\\gitprojects\\cruds-with-classandobjects\\second crud of 8th lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D37D0DD9-6858-409B-95EA-E7A12C8762A8}|Second CRUD of 8th lesson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37D0DD9-6858-409B-95EA-E7A12C8762A8}|Second CRUD of 8th lesson.csproj|d:\\projectswithcsharp\\gitprojects\\cruds-with-classandobjects\\second crud of 8th lesson\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37D0DD9-6858-409B-95EA-E7A12C8762A8}|Second CRUD of 8th lesson.csproj|solutionrelative:models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "Services\\CarsServices.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\CRUDs-with-ClassAndObjects\\Second CRUD of 8th lesson\\Services\\CarsServices.cs",
               "RelativeToolTip": "Services\\CarsServices.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwDgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T23:05:11.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cars.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\CRUDs-with-ClassAndObjects\\Second CRUD of 8th lesson\\Models\\Cars.cs",
               "RelativeDocumentMoniker": "Models\\Cars.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\CRUDs-with-ClassAndObjects\\Second CRUD of 8th lesson\\Models\\Cars.cs",
               "RelativeToolTip": "Models\\Cars.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T23:04:57.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\CRUDs-with-ClassAndObjects\\Second CRUD of 8th lesson\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\CRUDs-with-ClassAndObjects\\Second CRUD of 8th lesson\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwBgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T09:56:29.01Z",
               "EditorCaption": ""
